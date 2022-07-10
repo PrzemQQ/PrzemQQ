@@ -1,6 +1,29 @@
+# About Przemek
 - 👋 Hi, I’m @PrzemQQ
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 👀 Interested in modelling and analysis of data
+- 🧑‍🎓 Studying Systems Engineering at Wroclaw University of Science and Technology
+- 🌱 Currently learning Power Bi and Machine Learning in Python
+## Scientific Interests
+- Differential equations
+- Statistics
+- Mathematical modelling
+
+
+## Things I work with
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+
+<!---
+ Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=przemqq&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+--->
+
+
 
 <!---
 PrzemQQ/PrzemQQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
