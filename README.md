@@ -27,9 +27,10 @@
 <!---
  Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=przemqq&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=przemqq&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 --->
-
-
+### Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=przemqq&theme=tokyonight" alt="mystreak"/>
 
 <!---
 PrzemQQ/PrzemQQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
