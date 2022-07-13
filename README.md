@@ -18,6 +18,11 @@
 ![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-2ea44f)
+![Seaborn](https://img.shields.io/badge/Seaborn-0962ba)
+![Beautiful Soap](https://img.shields.io/badge/Beautiful_Soap-23282e)
+
+
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
