@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @PrzemQQ
 - 👀 Interested in modelling and analysis of data
 - 🧑‍🎓 Studying Systems Engineering at Wroclaw University of Science and Technology
-- 🌱 Currently learning Power Bi and Machine Learning in Python
+- 🌱 Currently learning Power Bi 
 ## Scientific Interests
 - Differential equations
 - Statistics
@@ -42,3 +42,7 @@
 PrzemQQ/PrzemQQ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### Currently working on
+- Flats rentals in Wrocław, analysis and scraping data;
+- Banking system, SQL + Python + Tkinter.
