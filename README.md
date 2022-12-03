@@ -10,17 +10,21 @@
 
 
 ## Things I work with
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+
+![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![IBM Cognos](https://img.shields.io/badge/IBM%20Cognos-IBM%20Cognos-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-2ea44f)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0962ba)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Beautiful Soap](https://img.shields.io/badge/Beautiful_Soap-23282e)
 
 
@@ -46,3 +50,6 @@ You can click the Preview link to take a look at your changes.
 ### Currently working on
 - Flats rentals in Wrocław, analysis and scraping data;
 - Banking system, SQL + Python + Tkinter.
+
+### Where to find me
+<a href="https://www.linkedin.com/in/przemyslaw-sipa/"> ![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
