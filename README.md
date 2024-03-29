@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @PrzemQQ
 - 👀 Interested in modelling and analysis of data
 - 🧑‍🎓 Studying Systems Engineering at Wroclaw University of Science and Technology
-- 🌱 Currently learning Power Bi 
+
 ## Scientific Interests
 - Differential equations
 - Statistics
